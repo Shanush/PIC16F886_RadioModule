@@ -11,12 +11,12 @@
 ;                                                                     *
 ;**********************************************************************
 ;                                                                     *
-;    Filename:	    xxx.asm                                           *
-;    Date:                                                            *
-;    File Version:                                                    *
+;    Filename:	    RadioMarkIII.asm                                  *
+;    Date:          5th June 2015                                     *
+;    File Version:  Version 3.2                                       *
 ;                                                                     *
-;    Author:                                                          *
-;    Company:                                                         *
+;    Author:        Shanush Prema Thasarathan                         *
+;    Company:       UNSW                                              *
 ;                                                                     *
 ;                                                                     *
 ;**********************************************************************
